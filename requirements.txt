@@ -1,0 +1,17 @@
+# Requirements for Cryptocurrency Price Analysis: Solana vs Cardano
+
+# Core data analysis libraries
+pandas
+numpy
+matplotlib
+seaborn
+
+# Yahoo Finance data download
+yfinance
+
+# Jupyter Notebook environment
+jupyter
+notebook
+
+# Optional: include only if used in your notebook
+scikit-learn
